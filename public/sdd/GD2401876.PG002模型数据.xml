@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cubicle Desc="主变测控柜" Name="P102" Type="PPCK97-B52T" Width="800" Height="2260" Depth="600" Color="RAL7035">
+  <Device PlaceArea="UD04" Row="1" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="80" Width="117.40000000000009" Name="FZD" Desc="用于端子条的标记槽" X="58.700000000000045" Y="17.5" AreaX="1110.99999889427" AreaY="230.59999999998695" AreaHeight="35" AreaWidth="450">
+    <Board Name="1" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="2" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="3" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="4" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="5" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="6" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="7" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="8" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="9" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="10" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="11" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="12" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="13" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="14" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="15" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="16" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="17" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+  </Device>
+  <Device PlaceArea="UD04" Row="1" Column="2" Type="Nader.2P-C-16A-DC" DeviceClass="KK" Height="82" Width="36" Name="FLK7" Desc="微型断路器" X="135.40000000000009" Y="17.5" AreaX="1110.99999889427" AreaY="230.59999999998695" AreaHeight="35" AreaWidth="450" />
+  <Device PlaceArea="UD04" Row="1" Column="3" Type="GEHE.GPU1-ZH220/Y" DeviceClass="FLQ" Height="70" Width="36" Name="FLQ7" Desc="电源防雷器" X="171.40000000000009" Y="17.5" AreaX="1110.99999889427" AreaY="230.59999999998695" AreaHeight="35" AreaWidth="450" />
+  <Device PlaceArea="UR01" Row="1" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="110.40000000000009" Width="80" Name="2UD" Desc="用于端子条的标记槽" X="17.5" Y="1694.8000000000002" AreaX="1610.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="2" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="3" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="4" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="5" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="6" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="7" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="8" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="9" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="10" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="11" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="12" Desc="分断测试端子" Type="PXC.URTK/S" />
+  </Device>
+  <Device PlaceArea="UR01" Row="2" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="77.599999999999909" Width="80" Name="2ID" Desc="用于端子条的标记槽" X="17.5" Y="1600.8000000000002" AreaX="1610.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="2" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="3" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="4" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="5" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="6" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="7" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="8" Desc="分断测试端子" Type="PXC.URTK/S" />
+  </Device>
+  <Device PlaceArea="UR01" Row="3" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="148.40000000000009" Width="80" Name="2GD" Desc="用于端子条的标记槽" X="17.5" Y="1487.8000000000002" AreaX="1610.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="2" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="3" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="4" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="5" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="6" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="7" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="8" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="9" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="10" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="11" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="12" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="13" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="14" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="15" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="16" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="17" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="18" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="19" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="20" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="21" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="22" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+  </Device>
+  <Device PlaceArea="UR01" Row="4" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="123.60000000000014" Width="80" Name="2QD" Desc="用于端子条的标记槽" X="17.5" Y="1351.7999999999997" AreaX="1610.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="2" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="3" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="4" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="5" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="6" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="7" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="8" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="9" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="10" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="11" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="12" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="13" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="14" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="15" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="16" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="17" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="18" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+  </Device>
+  <Device PlaceArea="UR01" Row="5" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="43" Width="80" Name="7YD" Desc="用于端子条的标记槽" X="17.5" Y="1268.4999999999998" AreaX="1610.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="2" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="3" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="4" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="5" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+  </Device>
+  <Device PlaceArea="UR01" Row="6" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="43" Width="80" Name="2YD" Desc="用于端子条的标记槽" X="17.5" Y="1225.4999999999998" AreaX="1610.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="2" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="3" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="4" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="5" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+  </Device>
+  <Device PlaceArea="UR01" Row="7" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="43" Width="80" Name="3YD" Desc="用于端子条的标记槽" X="17.5" Y="1182.4999999999998" AreaX="1610.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="2" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="3" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="4" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="5" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+  </Device>
+  <Device PlaceArea="UR01" Row="8" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="74" Width="80" Name="TD" Desc="用于端子条的标记槽" X="17.5" Y="1123.9999999999998" AreaX="1610.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="2" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="3" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="4" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="5" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="6" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="7" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="8" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="9" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="10" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+  </Device>
+  <Device PlaceArea="UL01" Row="1" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="148.40000000000009" Width="80" Name="ZD" Desc="用于端子条的标记槽" X="17.5" Y="1675.8000000000002" AreaX="1026.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="2" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="3" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="4" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="5" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="6" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="7" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="8" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="9" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="10" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="11" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="12" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="13" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="14" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="15" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="16" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="17" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="18" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="19" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="20" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="21" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="22" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+  </Device>
+  <Device PlaceArea="UL01" Row="2" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="94" Width="80" Name="7ID" Desc="用于端子条的标记槽" X="17.5" Y="1554.6" AreaX="1026.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="2" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="3" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="4" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="5" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="6" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="7" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="8" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="9" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="10" Desc="分断测试端子" Type="PXC.URTK/S" />
+  </Device>
+  <Device PlaceArea="UL01" Row="3" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="86.400000000000091" Width="80" Name="7WD" Desc="用于端子条的标记槽" X="17.5" Y="1464.3999999999996" AreaX="1026.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="2" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="3" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="4" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="5" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="6" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="7" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="8" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="9" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="10" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="11" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="12" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+  </Device>
+  <Device PlaceArea="UL01" Row="4" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="111.20000000000005" Width="80" Name="7GD" Desc="用于端子条的标记槽" X="17.5" Y="1365.6" AreaX="1026.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="2" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="3" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="4" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="5" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="6" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="7" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="8" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="9" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="10" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="11" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="12" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="13" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="14" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="15" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="16" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+  </Device>
+  <Device PlaceArea="UL01" Row="5" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="123.60000000000014" Width="80" Name="7QD" Desc="用于端子条的标记槽" X="17.5" Y="1248.1999999999998" AreaX="1026.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="2" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="3" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="4" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="5" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="6" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="7" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="8" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="9" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="10" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="11" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="12" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="13" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="14" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="15" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="16" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="17" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="18" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+  </Device>
+  <Device PlaceArea="UL01" Row="6" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="110.40000000000009" Width="80" Name="3UD" Desc="用于端子条的标记槽" X="17.5" Y="1131.1999999999996" AreaX="1026.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="2" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="3" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="4" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="5" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="6" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="7" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="8" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="9" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="10" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="11" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="12" Desc="分断测试端子" Type="PXC.URTK/S" />
+  </Device>
+  <Device PlaceArea="UL01" Row="7" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="77.599999999999909" Width="80" Name="3ID" Desc="用于端子条的标记槽" X="17.5" Y="1037.1999999999996" AreaX="1026.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="2" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="3" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="4" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="5" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="6" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="7" Desc="分断测试端子" Type="PXC.URTK/S" />
+    <Board Name="8" Desc="分断测试端子" Type="PXC.URTK/S" />
+  </Device>
+  <Device PlaceArea="UL01" Row="8" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="148.40000000000009" Width="80" Name="3GD" Desc="用于端子条的标记槽" X="17.5" Y="924.19999999999959" AreaX="1026.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="2" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="3" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="4" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="5" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="6" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="7" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="8" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="9" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="10" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="11" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="12" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="13" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="14" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="15" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="16" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="17" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="18" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="19" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="20" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="21" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+    <Board Name="22" Desc="双进双出型接线端子" Type="PXC.UDK 4" />
+  </Device>
+  <Device PlaceArea="UL01" Row="9" Column="1" Type="PXC.KLM-A" DeviceClass="OTHD" Height="123.60000000000014" Width="80" Name="3QD" Desc="用于端子条的标记槽" X="17.5" Y="788.19999999999936" AreaX="1026.5" AreaY="200" AreaHeight="1750" AreaWidth="35">
+    <Board Name="1" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="2" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="3" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="4" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="5" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="6" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="7" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="8" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="9" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="10" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="11" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="12" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="13" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="14" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="15" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="16" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="17" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+    <Board Name="18" Desc="直通式接线端子" Type="PXC.UK 5 N" />
+  </Device>
+  <Device PlaceArea="FrontPlate" Row="1" Column="1" Type="NR.ZD_PCS-9705-GA-1-N-1A" DeviceClass="IED" Height="177.80000000000018" Width="450" Name="7n" Desc="测控装置" X="224.9999429704169" Y="1726.85" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795">
+    <Board Name="01" Desc="电源插件" Type="NR.CJ_NR1307A">
+      <Port Desc="BO" Name="01" />
+      <Port Desc="BO" Name="02" />
+      <Port Desc="BO" Name="03" />
+      <Port Desc="BO" Name="04" />
+      <Port Desc="NULL" Name="05" />
+      <Port Desc="+" Name="06" />
+      <Port Desc="NULL" Name="07" />
+      <Port Desc="-" Name="08" />
+      <Port Desc="NULL" Name="09" />
+      <Port Desc="NULL" Name="10" />
+      <Port Desc="GND" Name="GND" />
+    </Board>
+    <Board Name="02" Desc="开入插件" Type="NR.CJ_NR1510A">
+      <Port Desc="BI+" Name="01" />
+      <Port Desc="BI+" Name="02" />
+      <Port Desc="BI+" Name="03" />
+      <Port Desc="BI+" Name="04" />
+      <Port Desc="BI+" Name="05" />
+      <Port Desc="BI+" Name="06" />
+      <Port Desc="BI+" Name="07" />
+      <Port Desc="BI+" Name="08" />
+      <Port Desc="BI+" Name="09" />
+      <Port Desc="BI+" Name="10" />
+      <Port Desc="BI+" Name="11" />
+      <Port Desc="BI+" Name="12" />
+      <Port Desc="BI+" Name="13" />
+      <Port Desc="BI+" Name="14" />
+      <Port Desc="BI+" Name="15" />
+      <Port Desc="BI+" Name="16" />
+      <Port Desc="BI+" Name="17" />
+      <Port Desc="BI+" Name="18" />
+      <Port Desc="BI+" Name="19" />
+      <Port Desc="BI+" Name="20" />
+      <Port Desc="BI+" Name="21" />
+      <Port Desc="BI+" Name="22" />
+      <Port Desc="BI+" Name="23" />
+      <Port Desc="BI+" Name="24" />
+      <Port Desc="BI+" Name="25" />
+      <Port Desc="BI+" Name="26" />
+      <Port Desc="BI+" Name="27" />
+      <Port Desc="COM-" Name="28" />
+    </Board>
+    <Board Name="03" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="04" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="05" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="06" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="07" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="08" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="09" Desc="CPU插件" Type="NR.CJ_NR1196B-NM">
+      <Port Desc="Ethernet1" Name="E1" />
+      <Port Desc="Ethernet2" Name="E2" />
+      <Port Desc="Ethernet3" Name="E3" />
+      <Port Desc="Ethernet4" Name="E4" />
+      <Port Desc="Ethernet5" Name="G1" />
+      <Port Desc="Ethernet6" Name="G2" />
+      <Port Desc="Ethernet7" Name="G3" />
+      <Port Desc="Ethernet8" Name="G4" />
+      <Port Desc="Ethernet9" Name="G5" />
+      <Port Desc="Ethernet10" Name="G6" />
+      <Port Desc="NULL" Name="01" />
+      <Port Desc="NULL" Name="02" />
+      <Port Desc="NULL" Name="03" />
+      <Port Desc="+" Name="04" />
+      <Port Desc="SGND" Name="05" />
+      <Port Desc="NULL" Name="06" />
+      <Port Desc="NULL" Name="07" />
+      <Port Desc="NULL" Name="08" />
+      <Port Desc="NULL" Name="09" />
+      <Port Desc="NULL" Name="10" />
+      <Port Desc="-" Name="11" />
+      <Port Desc="NULL" Name="12" />
+      <Port Desc="NULL" Name="13" />
+      <Port Desc="NULL" Name="14" />
+    </Board>
+    <Board Name="11" Desc="直流模拟量输入插件" Type="NR.CJ_NR1437A">
+      <Port Desc="+" Name="01" />
+      <Port Desc="-" Name="02" />
+      <Port Desc="+" Name="03" />
+      <Port Desc="-" Name="04" />
+      <Port Desc="+" Name="05" />
+      <Port Desc="-" Name="06" />
+      <Port Desc="+" Name="07" />
+      <Port Desc="-" Name="08" />
+      <Port Desc="+" Name="09" />
+      <Port Desc="-" Name="10" />
+      <Port Desc="+" Name="11" />
+      <Port Desc="-" Name="12" />
+      <Port Desc="+" Name="13" />
+      <Port Desc="-" Name="14" />
+      <Port Desc="+" Name="15" />
+      <Port Desc="-" Name="16" />
+      <Port Desc="NULL" Name="17" />
+      <Port Desc="NULL" Name="18" />
+      <Port Desc="NULL" Name="19" />
+      <Port Desc="NULL" Name="20" />
+      <Port Desc="NULL" Name="21" />
+      <Port Desc="NULL" Name="22" />
+      <Port Desc="NULL" Name="23" />
+      <Port Desc="NULL" Name="24" />
+      <Port Desc="NULL" Name="25" />
+      <Port Desc="NULL" Name="26" />
+      <Port Desc="NULL" Name="27" />
+      <Port Desc="NULL" Name="28" />
+    </Board>
+    <Board Name="12" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="13" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="14" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="15" Desc="模拟量输入插件" Type="NR.CJ_NR1401M-5U4I-1A02-A">
+      <Port Desc="U1" Name="01" />
+      <Port Desc="U1'" Name="02" />
+      <Port Desc="U2" Name="03" />
+      <Port Desc="U2'" Name="04" />
+      <Port Desc="U3" Name="05" />
+      <Port Desc="U3'" Name="06" />
+      <Port Desc="U4" Name="07" />
+      <Port Desc="U4'" Name="08" />
+      <Port Desc="U5" Name="09" />
+      <Port Desc="U5'" Name="10" />
+      <Port Desc="I1" Name="11" />
+      <Port Desc="I1'" Name="12" />
+      <Port Desc="I2" Name="13" />
+      <Port Desc="I2'" Name="14" />
+      <Port Desc="I3" Name="15" />
+      <Port Desc="I3'" Name="16" />
+      <Port Desc="I4" Name="17" />
+      <Port Desc="I4'" Name="18" />
+      <Port Desc="NULL" Name="19" />
+      <Port Desc="NULL" Name="20" />
+      <Port Desc="NULL" Name="21" />
+      <Port Desc="NULL" Name="22" />
+      <Port Desc="NULL" Name="23" />
+      <Port Desc="NULL" Name="24" />
+    </Board>
+  </Device>
+  <Device PlaceArea="FrontPlate" Row="2" Column="1" Type="NR.ZD_PCS-9705-GA-1-N-1A" DeviceClass="IED" Height="177.79999999999995" Width="450" Name="2n" Desc="测控装置" X="224.99999230760989" Y="1460.1500060221001" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795">
+    <Board Name="01" Desc="电源插件" Type="NR.CJ_NR1307A">
+      <Port Desc="BO" Name="01" />
+      <Port Desc="BO" Name="02" />
+      <Port Desc="BO" Name="03" />
+      <Port Desc="BO" Name="04" />
+      <Port Desc="NULL" Name="05" />
+      <Port Desc="+" Name="06" />
+      <Port Desc="NULL" Name="07" />
+      <Port Desc="-" Name="08" />
+      <Port Desc="NULL" Name="09" />
+      <Port Desc="NULL" Name="10" />
+      <Port Desc="GND" Name="GND" />
+    </Board>
+    <Board Name="02" Desc="开入插件" Type="NR.CJ_NR1510A">
+      <Port Desc="BI+" Name="01" />
+      <Port Desc="BI+" Name="02" />
+      <Port Desc="BI+" Name="03" />
+      <Port Desc="BI+" Name="04" />
+      <Port Desc="BI+" Name="05" />
+      <Port Desc="BI+" Name="06" />
+      <Port Desc="BI+" Name="07" />
+      <Port Desc="BI+" Name="08" />
+      <Port Desc="BI+" Name="09" />
+      <Port Desc="BI+" Name="10" />
+      <Port Desc="BI+" Name="11" />
+      <Port Desc="BI+" Name="12" />
+      <Port Desc="BI+" Name="13" />
+      <Port Desc="BI+" Name="14" />
+      <Port Desc="BI+" Name="15" />
+      <Port Desc="BI+" Name="16" />
+      <Port Desc="BI+" Name="17" />
+      <Port Desc="BI+" Name="18" />
+      <Port Desc="BI+" Name="19" />
+      <Port Desc="BI+" Name="20" />
+      <Port Desc="BI+" Name="21" />
+      <Port Desc="BI+" Name="22" />
+      <Port Desc="BI+" Name="23" />
+      <Port Desc="BI+" Name="24" />
+      <Port Desc="BI+" Name="25" />
+      <Port Desc="BI+" Name="26" />
+      <Port Desc="BI+" Name="27" />
+      <Port Desc="COM-" Name="28" />
+    </Board>
+    <Board Name="03" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="04" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="05" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="06" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="07" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="08" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="09" Desc="CPU插件" Type="NR.CJ_NR1196B-NM">
+      <Port Desc="Ethernet1" Name="E1" />
+      <Port Desc="Ethernet2" Name="E2" />
+      <Port Desc="Ethernet3" Name="E3" />
+      <Port Desc="Ethernet4" Name="E4" />
+      <Port Desc="Ethernet5" Name="G1" />
+      <Port Desc="Ethernet6" Name="G2" />
+      <Port Desc="Ethernet7" Name="G3" />
+      <Port Desc="Ethernet8" Name="G4" />
+      <Port Desc="Ethernet9" Name="G5" />
+      <Port Desc="Ethernet10" Name="G6" />
+      <Port Desc="NULL" Name="01" />
+      <Port Desc="NULL" Name="02" />
+      <Port Desc="NULL" Name="03" />
+      <Port Desc="+" Name="04" />
+      <Port Desc="SGND" Name="05" />
+      <Port Desc="NULL" Name="06" />
+      <Port Desc="NULL" Name="07" />
+      <Port Desc="NULL" Name="08" />
+      <Port Desc="NULL" Name="09" />
+      <Port Desc="NULL" Name="10" />
+      <Port Desc="-" Name="11" />
+      <Port Desc="NULL" Name="12" />
+      <Port Desc="NULL" Name="13" />
+      <Port Desc="NULL" Name="14" />
+    </Board>
+    <Board Name="11" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="12" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="13" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="14" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="15" Desc="模拟量输入插件" Type="NR.CJ_NR1401M-5U4I-1A02-A">
+      <Port Desc="U1" Name="01" />
+      <Port Desc="U1'" Name="02" />
+      <Port Desc="U2" Name="03" />
+      <Port Desc="U2'" Name="04" />
+      <Port Desc="U3" Name="05" />
+      <Port Desc="U3'" Name="06" />
+      <Port Desc="U4" Name="07" />
+      <Port Desc="U4'" Name="08" />
+      <Port Desc="U5" Name="09" />
+      <Port Desc="U5'" Name="10" />
+      <Port Desc="I1" Name="11" />
+      <Port Desc="I1'" Name="12" />
+      <Port Desc="I2" Name="13" />
+      <Port Desc="I2'" Name="14" />
+      <Port Desc="I3" Name="15" />
+      <Port Desc="I3'" Name="16" />
+      <Port Desc="I4" Name="17" />
+      <Port Desc="I4'" Name="18" />
+      <Port Desc="NULL" Name="19" />
+      <Port Desc="NULL" Name="20" />
+      <Port Desc="NULL" Name="21" />
+      <Port Desc="NULL" Name="22" />
+      <Port Desc="NULL" Name="23" />
+      <Port Desc="NULL" Name="24" />
+    </Board>
+  </Device>
+  <Device PlaceArea="FrontPlate" Row="3" Column="1" Type="CJEL.AD11-22/DC220V/R" DeviceClass="SI" Height="28.799999999999955" Width="28.799999999999955" Name="2HD" Desc="信号灯" X="145.149933792639" Y="1333.9507865640203" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" />
+  <Device PlaceArea="FrontPlate" Row="3" Column="2" Type="五防电编码锁" DeviceClass="OTHD" Height="28" Width="64" Name="2S" Desc="五防电编码锁" X="216.99991728627492" Y="1331.25079258612" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" />
+  <Device PlaceArea="FrontPlate" Row="3" Column="3" Type="CJEL.AD11-22/DC220V/G" DeviceClass="SI" Height="28.799999999999955" Width="28.799999999999955" Name="2LD" Desc="信号灯" X="289.149933792639" Y="1333.9507865640203" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" />
+  <Device PlaceArea="FrontPlate" Row="4" Column="1" Type="NR.ZD_PCS-9705-GA-1-N-1A" DeviceClass="IED" Height="177.79999999999995" Width="450" Name="3n" Desc="测控装置" X="224.99999451903898" Y="1193.4500060221098" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795">
+    <Board Name="01" Desc="电源插件" Type="NR.CJ_NR1307A">
+      <Port Desc="BO" Name="01" />
+      <Port Desc="BO" Name="02" />
+      <Port Desc="BO" Name="03" />
+      <Port Desc="BO" Name="04" />
+      <Port Desc="NULL" Name="05" />
+      <Port Desc="+" Name="06" />
+      <Port Desc="NULL" Name="07" />
+      <Port Desc="-" Name="08" />
+      <Port Desc="NULL" Name="09" />
+      <Port Desc="NULL" Name="10" />
+      <Port Desc="GND" Name="GND" />
+    </Board>
+    <Board Name="02" Desc="开入插件" Type="NR.CJ_NR1510A">
+      <Port Desc="BI+" Name="01" />
+      <Port Desc="BI+" Name="02" />
+      <Port Desc="BI+" Name="03" />
+      <Port Desc="BI+" Name="04" />
+      <Port Desc="BI+" Name="05" />
+      <Port Desc="BI+" Name="06" />
+      <Port Desc="BI+" Name="07" />
+      <Port Desc="BI+" Name="08" />
+      <Port Desc="BI+" Name="09" />
+      <Port Desc="BI+" Name="10" />
+      <Port Desc="BI+" Name="11" />
+      <Port Desc="BI+" Name="12" />
+      <Port Desc="BI+" Name="13" />
+      <Port Desc="BI+" Name="14" />
+      <Port Desc="BI+" Name="15" />
+      <Port Desc="BI+" Name="16" />
+      <Port Desc="BI+" Name="17" />
+      <Port Desc="BI+" Name="18" />
+      <Port Desc="BI+" Name="19" />
+      <Port Desc="BI+" Name="20" />
+      <Port Desc="BI+" Name="21" />
+      <Port Desc="BI+" Name="22" />
+      <Port Desc="BI+" Name="23" />
+      <Port Desc="BI+" Name="24" />
+      <Port Desc="BI+" Name="25" />
+      <Port Desc="BI+" Name="26" />
+      <Port Desc="BI+" Name="27" />
+      <Port Desc="COM-" Name="28" />
+    </Board>
+    <Board Name="03" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="04" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="05" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="06" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="07" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="08" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="09" Desc="CPU插件" Type="NR.CJ_NR1196B-NM">
+      <Port Desc="Ethernet1" Name="E1" />
+      <Port Desc="Ethernet2" Name="E2" />
+      <Port Desc="Ethernet3" Name="E3" />
+      <Port Desc="Ethernet4" Name="E4" />
+      <Port Desc="Ethernet5" Name="G1" />
+      <Port Desc="Ethernet6" Name="G2" />
+      <Port Desc="Ethernet7" Name="G3" />
+      <Port Desc="Ethernet8" Name="G4" />
+      <Port Desc="Ethernet9" Name="G5" />
+      <Port Desc="Ethernet10" Name="G6" />
+      <Port Desc="NULL" Name="01" />
+      <Port Desc="NULL" Name="02" />
+      <Port Desc="NULL" Name="03" />
+      <Port Desc="+" Name="04" />
+      <Port Desc="SGND" Name="05" />
+      <Port Desc="NULL" Name="06" />
+      <Port Desc="NULL" Name="07" />
+      <Port Desc="NULL" Name="08" />
+      <Port Desc="NULL" Name="09" />
+      <Port Desc="NULL" Name="10" />
+      <Port Desc="-" Name="11" />
+      <Port Desc="NULL" Name="12" />
+      <Port Desc="NULL" Name="13" />
+      <Port Desc="NULL" Name="14" />
+    </Board>
+    <Board Name="11" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="12" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="13" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="14" Desc="空面板" Type="NR.YJ2.JGJ.MB_NR1000" />
+    <Board Name="15" Desc="模拟量输入插件" Type="NR.CJ_NR1401M-5U4I-1A02-A">
+      <Port Desc="U1" Name="01" />
+      <Port Desc="U1'" Name="02" />
+      <Port Desc="U2" Name="03" />
+      <Port Desc="U2'" Name="04" />
+      <Port Desc="U3" Name="05" />
+      <Port Desc="U3'" Name="06" />
+      <Port Desc="U4" Name="07" />
+      <Port Desc="U4'" Name="08" />
+      <Port Desc="U5" Name="09" />
+      <Port Desc="U5'" Name="10" />
+      <Port Desc="I1" Name="11" />
+      <Port Desc="I1'" Name="12" />
+      <Port Desc="I2" Name="13" />
+      <Port Desc="I2'" Name="14" />
+      <Port Desc="I3" Name="15" />
+      <Port Desc="I3'" Name="16" />
+      <Port Desc="I4" Name="17" />
+      <Port Desc="I4'" Name="18" />
+      <Port Desc="NULL" Name="19" />
+      <Port Desc="NULL" Name="20" />
+      <Port Desc="NULL" Name="21" />
+      <Port Desc="NULL" Name="22" />
+      <Port Desc="NULL" Name="23" />
+      <Port Desc="NULL" Name="24" />
+    </Board>
+  </Device>
+  <Device PlaceArea="FrontPlate" Row="5" Column="1" Type="CJEL.AD11-22/DC220V/R" DeviceClass="SI" Height="28.799999999999955" Width="28.799999999999955" Name="3HD" Desc="信号灯" X="145.149940395185" Y="1065.0507865640202" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" />
+  <Device PlaceArea="FrontPlate" Row="5" Column="2" Type="五防电编码锁" DeviceClass="OTHD" Height="28" Width="64" Name="3S" Desc="五防电编码锁" X="216.99991728627492" Y="1067.25079258612" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" />
+  <Device PlaceArea="FrontPlate" Row="5" Column="3" Type="CJEL.AD11-22/DC220V/G" DeviceClass="SI" Height="28.799999999999955" Width="28.799999999999955" Name="3LD" Desc="信号灯" X="289.149940395185" Y="1065.0507865640202" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" />
+  <Device PlaceArea="UH01" Row="1" Column="1" Type="Nader.1P-C-1A" DeviceClass="KK" Height="82" Width="18" Name="3ZKK2" Desc="微型断路器" X="164.82554151859995" Y="17.5" AreaX="1000.3489169628001" AreaY="2080.2965150622094" AreaHeight="35" AreaWidth="671.6510830371999" />
+  <Device PlaceArea="UH01" Row="1" Column="2" Type="Nader.3P-C-1A" DeviceClass="KK" Height="82" Width="54" Name="3ZKK1" Desc="微型断路器" X="200.82554151859995" Y="17.5" AreaX="1000.3489169628001" AreaY="2080.2965150622094" AreaHeight="35" AreaWidth="671.6510830371999" />
+  <Device PlaceArea="UH01" Row="1" Column="3" Type="Nader.2P-C-3A-DC" DeviceClass="KK" Height="82" Width="36" Name="3K2" Desc="微型断路器" X="245.82554151859995" Y="17.5" AreaX="1000.3489169628001" AreaY="2080.2965150622094" AreaHeight="35" AreaWidth="671.6510830371999" />
+  <Device PlaceArea="UH01" Row="1" Column="4" Type="Nader.2P-C-3A-DC" DeviceClass="KK" Height="82" Width="36" Name="3K1" Desc="微型断路器" X="281.82554151859995" Y="17.5" AreaX="1000.3489169628001" AreaY="2080.2965150622094" AreaHeight="35" AreaWidth="671.6510830371999" />
+  <Device PlaceArea="UH01" Row="1" Column="5" Type="Nader.1P-C-1A" DeviceClass="KK" Height="82" Width="18" Name="2ZKK2" Desc="微型断路器" X="308.82554151859995" Y="17.5" AreaX="1000.3489169628001" AreaY="2080.2965150622094" AreaHeight="35" AreaWidth="671.6510830371999" />
+  <Device PlaceArea="UH01" Row="1" Column="6" Type="Nader.3P-C-1A" DeviceClass="KK" Height="82" Width="54" Name="2ZKK1" Desc="微型断路器" X="344.82554151859995" Y="17.5" AreaX="1000.3489169628001" AreaY="2080.2965150622094" AreaHeight="35" AreaWidth="671.6510830371999" />
+  <Device PlaceArea="UH01" Row="1" Column="7" Type="Nader.2P-C-3A-DC" DeviceClass="KK" Height="82" Width="36" Name="2K2" Desc="微型断路器" X="389.82554151859995" Y="17.5" AreaX="1000.3489169628001" AreaY="2080.2965150622094" AreaHeight="35" AreaWidth="671.6510830371999" />
+  <Device PlaceArea="UH01" Row="1" Column="8" Type="Nader.2P-C-3A-DC" DeviceClass="KK" Height="82" Width="36" Name="2K1" Desc="微型断路器" X="425.82554151859995" Y="17.5" AreaX="1000.3489169628001" AreaY="2080.2965150622094" AreaHeight="35" AreaWidth="671.6510830371999" />
+  <Device PlaceArea="UH01" Row="1" Column="9" Type="Nader.2P-C-3A-DC" DeviceClass="KK" Height="82" Width="36" Name="7K2" Desc="微型断路器" X="461.82554151859995" Y="17.5" AreaX="1000.3489169628001" AreaY="2080.2965150622094" AreaHeight="35" AreaWidth="671.6510830371999" />
+  <Device PlaceArea="UH01" Row="1" Column="10" Type="Nader.2P-C-3A-DC" DeviceClass="KK" Height="82" Width="36" Name="7K1" Desc="微型断路器" X="497.82554151859995" Y="17.5" AreaX="1000.3489169628001" AreaY="2080.2965150622094" AreaHeight="35" AreaWidth="671.6510830371999" />
+  <Device PlaceArea="FrontSidePlate2" Row="1" Column="1" Type="ELX.LW21-16D/49.6201.2BNR2" DeviceClass="BS" Height="106" Width="74.999999999999545" Name="2KK" Desc="转换开关" X="63.999954690114464" Y="1491.4015791501402" AreaX="625.000077232763" AreaY="77" AreaHeight="2038" AreaWidth="129.99992276723697" />
+  <Device PlaceArea="FrontSidePlate2" Row="2" Column="1" Type="ELX.LW21-16D/49.6201.2BNR2" DeviceClass="BS" Height="106" Width="74.999999999999545" Name="3KK" Desc="转换开关" X="63.999961292664466" Y="1224.70157915014" AreaX="625.000077232763" AreaY="77" AreaHeight="2038" AreaWidth="129.99992276723697" />
+  <Device PlaceArea="FrontPlate" Row="1" Column="1" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="7LP1" Desc="压板" X="52.999964519641935" Y="681.35078656400992" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="置检修状态" />
+  <Device PlaceArea="FrontPlate" Row="1" Column="2" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="7LP2" Desc="压板" X="95.999964519641935" Y="681.35078656400992" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="解除闭锁" />
+  <Device PlaceArea="FrontPlate" Row="1" Column="3" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="7LP3" Desc="压板" X="138.99996451964194" Y="681.35078656400992" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="就地状态" />
+  <Device PlaceArea="FrontPlate" Row="1" Column="4" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="7LP4" Desc="压板" X="181.99996451964194" Y="681.35078656400992" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="1" Column="5" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="7LP5" Desc="压板" X="224.99996451964194" Y="681.35078656400992" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="1" Column="6" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="7LP6" Desc="压板" X="267.99996451964194" Y="681.35078656400992" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="1" Column="7" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="7LP7" Desc="压板" X="310.99996451964194" Y="681.35078656400992" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="1" Column="8" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="7LP8" Desc="压板" X="353.99996451964194" Y="681.35078656400992" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="1" Column="9" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="7LP9" Desc="压板" X="396.99996451964194" Y="681.35078656400992" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="2" Column="1" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="2LP1" Desc="压板" X="52.999964519641935" Y="592.55078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="置检修状态" />
+  <Device PlaceArea="FrontPlate" Row="2" Column="2" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="2LP2" Desc="压板" X="95.999964519641935" Y="592.55078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="解除闭锁" />
+  <Device PlaceArea="FrontPlate" Row="2" Column="3" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="2LP3" Desc="压板" X="138.99996451964194" Y="592.55078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="同期解除" />
+  <Device PlaceArea="FrontPlate" Row="2" Column="4" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="2LP4" Desc="压板" X="181.99996451964194" Y="592.55078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="2" Column="5" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="2LP5" Desc="压板" X="224.99996451964194" Y="592.55078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="2" Column="6" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="2LP6" Desc="压板" X="267.99996451964194" Y="592.55078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="2" Column="7" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="2LP7" Desc="压板" X="310.99996451964194" Y="592.55078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="2" Column="8" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="2LP8" Desc="压板" X="353.99996451964194" Y="592.55078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="2" Column="9" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="2LP9" Desc="压板" X="396.99996451964194" Y="592.55078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="3" Column="1" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="3LP1" Desc="压板" X="52.999964519641935" Y="503.75078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="置检修状态" />
+  <Device PlaceArea="FrontPlate" Row="3" Column="2" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="3LP2" Desc="压板" X="95.999964519641935" Y="503.75078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="解除闭锁" />
+  <Device PlaceArea="FrontPlate" Row="3" Column="3" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="3LP3" Desc="压板" X="138.99996451964194" Y="503.75078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="同期解除" />
+  <Device PlaceArea="FrontPlate" Row="3" Column="4" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="3LP4" Desc="压板" X="181.99996451964194" Y="503.75078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="3" Column="5" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="3LP5" Desc="压板" X="224.99996451964194" Y="503.75078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="3" Column="6" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="3LP6" Desc="压板" X="267.99996451964194" Y="503.75078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="3" Column="7" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="3LP7" Desc="压板" X="310.99996451964194" Y="503.75078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="3" Column="8" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="3LP8" Desc="压板" X="353.99996451964194" Y="503.75078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="FrontPlate" Row="3" Column="9" Color="浅驼色" Type="LYHT.XH17W2T/DKZ" DeviceClass="YB" Height="45" Width="13" Name="3LP9" Desc="压板" X="396.99996451964194" Y="503.75078656401" AreaX="175.00007502133508" AreaY="77" AreaHeight="2038" AreaWidth="450.00000221142795" LinkContent="" />
+  <Device PlaceArea="UD01" Row="1" Column="1" Type="BR.NR-ODF-2U/24(24ST/M)" DeviceClass="ODF" Height="88.099999999999909" Width="450" Name="ODF" Desc="光纤配线架" X="225.00000110573319" Y="17.899999999999864" AreaX="1110.99999889427" AreaY="630.64999999999009" AreaHeight="35" AreaWidth="450">
+    <Board Name="1.01" Desc="多模光纤$ST" />
+    <Board Name="1.02" Desc="多模光纤$ST" />
+    <Board Name="1.03" Desc="多模光纤$ST" />
+    <Board Name="1.04" Desc="多模光纤$ST" />
+    <Board Name="1.05" Desc="多模光纤$ST" />
+    <Board Name="1.06" Desc="多模光纤$ST" />
+    <Board Name="1.07" Desc="多模光纤$ST" />
+    <Board Name="1.08" Desc="多模光纤$ST" />
+    <Board Name="1.09" Desc="多模光纤$ST" />
+    <Board Name="1.10" Desc="多模光纤$ST" />
+    <Board Name="1.11" Desc="多模光纤$ST" />
+    <Board Name="1.12" Desc="多模光纤$ST" />
+    <Board Name="2.01" Desc="多模光纤$ST" />
+    <Board Name="2.02" Desc="多模光纤$ST" />
+    <Board Name="2.03" Desc="多模光纤$ST" />
+    <Board Name="2.04" Desc="多模光纤$ST" />
+    <Board Name="2.05" Desc="多模光纤$ST" />
+    <Board Name="2.06" Desc="多模光纤$ST" />
+    <Board Name="2.07" Desc="多模光纤$ST" />
+    <Board Name="2.08" Desc="多模光纤$ST" />
+    <Board Name="2.09" Desc="多模光纤$ST" />
+    <Board Name="2.10" Desc="多模光纤$ST" />
+    <Board Name="2.11" Desc="多模光纤$ST" />
+    <Board Name="2.12" Desc="多模光纤$ST" />
+  </Device>
+  <Device PlaceArea="FrontSidePlate1" Row="1" Column="1" Type="ELX.LW21-16/4.6076.4BNR2" DeviceClass="BS" Height="106" Width="74.999999999999488" Name="2QK" Desc="转换开关" X="66.000093952769475" Y="1491.4016125713601" AreaX="45" AreaY="76.999966578790008" AreaHeight="2038.00003342121" AreaWidth="130.00007723276303" />
+  <Device PlaceArea="FrontSidePlate1" Row="2" Column="1" Type="ELX.LW21-16/4.6076.4BNR2" DeviceClass="BS" Height="106" Width="74.999999999999545" Name="3QK" Desc="转换开关" X="66.000104946432543" Y="1224.70161257136" AreaX="45" AreaY="76.999966578790008" AreaHeight="2038.00003342121" AreaWidth="130.00007723276303" />
+</Cubicle>

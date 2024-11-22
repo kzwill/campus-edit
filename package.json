@@ -4,17 +4,29 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "lint": "eslint --ignore-pattern .gitignore --fix src",
+    "format": "prettier .  --write",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vueuse/core": "^11.3.0",
+    "axios": "^1.7.7",
+    "eslint-plugin-vue": "^9.31.0",
+    "globals": "^15.12.0",
+    "js-yaml": "^4.1.0",
     "path": "^0.12.7",
+    "prettier": "^3.3.3",
+    "unplugin-auto-import": "^0.18.5",
+    "vite-plugin-eslint": "^1.8.1",
     "vue": "^3.5.12",
     "vue-router": "4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.4",
+    "eslint": "^9.15.0",
+    "eslint-plugin-prettier": "^5.2.1",
     "vite": "^5.4.10"
   }
 }
