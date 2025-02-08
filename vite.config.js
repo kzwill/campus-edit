@@ -5,6 +5,7 @@ import path from 'path';
 // import eslintPlugin from 'vite-plugin-eslint'
 
 export default defineConfig({
+  base: './',
   plugins: [
     vue(),
     AutoImport({
